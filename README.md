@@ -1,4 +1,4 @@
-# ghost
+# vue2移动端
 
 ## Project setup
 ```

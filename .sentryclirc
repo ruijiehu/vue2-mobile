@@ -1,0 +1,6 @@
+[auth]
+token=08f31c2a777848809d845b4739d226fb23fa17779b0147afb7cd52a3ace427d2
+[defaults]
+url=http://36.26.8.234:9006
+org=js_developer
+project=xz-develop-app
